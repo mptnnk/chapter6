@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.image{
+  height:200px;
+}
+
+.photo1{
+  background-image:url(img6/box1.jpg);
+  background-position:center;
+}
+
+.photo2{
+  background-image:url(img6/box2.jpg);
+  background-position:center;
+}
+
+.photo3{
+  background-image:url(img6/box3.jpg);
+  background-position:center;
+}
+
+.photo4{
+  background-image:url(img6/box4.jpg);
+  background-position:center;
+}
